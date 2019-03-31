@@ -11,3 +11,4 @@ wouldn't necessarily express an interest.
 # little bear's recommendations
 
 - [ ] [The New Jim Crow](http://newjimcrow.com/), by Michelle Alexander (Mar 18, 2019)
+- [ ] [The Power](https://www.npr.org/2017/12/26/573507226/in-the-power-women-develop-a-weapon-that-changes-everything), by Naomi Alderman (Apr ??, 2019)
