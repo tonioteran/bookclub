@@ -15,3 +15,4 @@ wouldn't necessarily express an interest.
 
 - [x] [The New Jim Crow](http://newjimcrow.com/), by Michelle Alexander (~~Mar~~, May 06, 2019)
 - [x] [The Power](https://www.npr.org/2017/12/26/573507226/in-the-power-women-develop-a-weapon-that-changes-everything), by Naomi Alderman (Apr 29, 2019)
+- [ ] [L'Élégance du Hérisson](https://en.wikipedia.org/wiki/The_Elegance_of_the_Hedgehog), by Muriel Barbery (June 2019)
