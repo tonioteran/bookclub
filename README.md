@@ -5,7 +5,7 @@ wouldn't necessarily express an interest.
 
 # bear's recommendations
 
-- [ ] [Autonomy](https://www.harpercollins.com/9780062661128/autonomy/), by Lawrence Burns and Christopher Shulgan (~~Mar 18~~, May?, 2019)
+- [x] [Autonomy](https://www.harpercollins.com/9780062661128/autonomy/), by Lawrence Burns and Christopher Shulgan (~~Mar 18~~, May?, 2019)
 - [x] [Moneyland](https://www.theguardian.com/books/2018/sep/09/moneyland-oliver-bullough-review-wealth-corruption-oligarchs), by Oliver Bullough (Apr 01, 2019)
 - [ ] [The Moonstone](https://en.wikipedia.org/wiki/The_Moonstone), by Wilkie Collins (June, 2019?)
 - [ ] [Flatland: A Romance of Many Dimensions](https://en.wikipedia.org/wiki/Flatland), by Wilkie Collins (June, 2019?)
